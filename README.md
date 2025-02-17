@@ -6,7 +6,7 @@ The SynCry framework was developed by Prof. Yousung Jung's group at Seoul Nation
 This code is used for synthesizability modification of inorganic crystal structures.
 
 # Developer
-Feel free to reach out to Jaehwan Choi for any other technical solutions: jaehwanchoi@snu.ac.kr
+Feel free to reach out to Jaehwan Choi and Seongmin Kim for any other technical solutions: jaehwan.micc@gmail.com, smkim.micc@gmail.com
 
 # Data Availability
 You can start the first step of the entire framework by downloading the zip files from this link. https://zenodo.org/records/14614258
