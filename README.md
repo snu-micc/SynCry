@@ -14,3 +14,6 @@ You can start the first step of the entire framework by downloading the zip file
 The test_set is used for the overall framework, including structural modification and chemical analysis.
 
 The train_set and val_set are used for constructing SynCry-GPT during the fine-tuning process.
+
+# Citation
+under review
