@@ -2,6 +2,7 @@
 ![SynCry](./TOC.png)
 
 The SynCry framework was developed by Prof. Yousung Jung's group at Seoul National University
+
 (contact: yousung@gmail.com)
 
 This code is used for redesigning infeasible inorganic crystal structures into synthesizable compounds using LLM.
